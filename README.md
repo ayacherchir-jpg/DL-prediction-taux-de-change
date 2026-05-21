@@ -1,7 +1,7 @@
 # 🇹🇳 EUR/TND Exchange Rate Forecasting — Deep Learning
 
 > **Prévision du taux de change Euro / Dinar Tunisien par Deep Learning**  
-> *Ben Selma Hibe & Cherchir Aya — 2025*
+> *Ben Selma Hibe & Cherchir Aya — 2026*
 
 ---
 
