@@ -30,19 +30,18 @@ Prédire le taux de change **EUR/TND du lendemain** en comparant 5 architectures
 
 ```
 📦 projet-dl-eurtnd/
-├── 📓 02_Modeling_DL.ipynb          # Notebook principal (12 sections)
-├── 📊 macro_market_merged.csv        # Dataset brut (2015–2025)
-├── 📊 dataset_features.csv           # Dataset après feature engineering
-├── 📈 model_comparison_final_dl.csv  # Métriques comparatives
-├── 📈 walkforward_predictions_dl.csv # Prédictions walk-forward
-├── 🖼️ feature_importance_corr.png
-├── 🖼️ train_test_split.png
-├── 🖼️ model_comparison_metrics.png
-├── 🖼️ actual_vs_predicted_all.png
-├── 🖼️ learning_curves_all.png
-├── 🖼️ val_loss_comparison.png
-├── 🖼️ walkforward_best_dl.png
-└── 🖼️ forecast_tomorrow_dl.png
+├──Data
+       ├── macro_market_merged.csv # Dataset brut (2015–2025)
+├──Drafts
+       ├── 02_Modeling_DL_Draft1.ipynb
+       ├── 02_Modeling_DL_Draft2.ipynb
+       ├── 02_Modeling_DL_Draft3.ipynb
+├──Notebooks
+       ├── 01_EDA_DL.ipynb
+       ├── 02_Modeling_DL.ipynb
+.gitgnore
+README.md
+
 ```
 
 ---
